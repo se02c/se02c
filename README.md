@@ -1,6 +1,6 @@
 ## Hello There!  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-### I am Shikhar, might sound odd but an MBBS student, All I Know is some tech stack to make my things work.
+### I am Abdo ASil, might sound odd but an MBBS student, All I Know is some tech stack to make my things work.
 
 ## Brief About me :
 - I know Python,HTML5, Javascript, CSS and quite experienced with working of telegram bots and ofcourse I like writing bots.
@@ -19,7 +19,7 @@
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=NotReallyShikhar&show_icons=true&count_private=true&hide=stars&hide_border=True&include_all_commits=true&theme=dracula"/>
-  <a href="[(https://github.com/se02c/MusicBot](https://github.com/se02c)"><img src="https://github-readme-stats.vercel.app/api/pin/?username=notreallyshikhar&repo=yukkimusicbot&theme=dracula" height="172"/></a>
+  <a href="[(https://github.com/se02c/MusicBot](https://github.com/se02c)"><img src="https://github-readme-stats.vercel.app/api/pin/?username=notreallyshikhar&repo=musicbot&theme=dracula" height="172"/></a>
   
 </p>  
 <p>
